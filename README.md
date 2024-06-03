@@ -8,7 +8,7 @@ _This readme is incomplete._
 
 ## Projects
 
-## Skills
+## Resume and Contact Information
 
 ## Other Online Presences
 
