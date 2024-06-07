@@ -10,6 +10,6 @@ _This readme is under construction._
 
 ## Resume and Contact Information
 
-## Other Online Presences
+## Online Presences
 
 [LinkedIn](https://www.linkedin.com/in/frankdesilets/)
