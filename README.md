@@ -10,6 +10,8 @@ _This readme is under construction._
 
 ## Resume and Contact Information
 
+Please contact me via email at: frankdesilets1@gmail.com
+
 ## Online Presences
 
 [LinkedIn](https://www.linkedin.com/in/frankdesilets/)
