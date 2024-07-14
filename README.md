@@ -5,7 +5,7 @@ Hello! My name is Frank Desilets. I am an undergraduate student at Southwestern 
 degree in Computer Science and a career as a software engineer. I am passionate about both front and back-end development. Please see below
 for my GitHub stats, recent projects I've worked on, and contact information.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=frankrdesilets&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frankrdesilets)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frankrdesilets&hide_progress=true&theme=THEME_NAME)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Recent Projects 💻
 
