@@ -2,7 +2,7 @@
 
 ## 👋 About Me 
 
-Hello! My name is Frank Desilets. I am an undergraduate student at Southwestern University in Georgetown, Texas pursuing a Bachelor of Science
+Hello! My name is Frank Desilets. I am an undergraduate student at Southwestern University in Georgetown, Texas pursuing a Bachelor of Arts
 in Computer Science degree (set to graduate in May 2026) and a career as a software engineer. I am passionate about both front and back-end development. Please see below
 for my GitHub stats, recent projects I've worked on, and contact information.
 
