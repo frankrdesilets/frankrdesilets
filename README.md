@@ -10,13 +10,11 @@ for my GitHub stats, recent projects I've worked on, and contact information.
 
 ## 💻 Recent Projects 
 
-[**User Manager GUI**](https://github.com/frankrdesilets/User-Manager-GUI) - A GUI that simulates user account management in a professional internal system.
+[**GPA Forecaster (Personal)**](https://github.com/frankrdesilets/gpa-forecaster) - An app that parses .txt files representing an academic “career” and predicts a final cumulative GPA, allowing for intentional academic planning and class scheduling.
 
-[**String Matcher**](https://github.com/frankrdesilets/String-Matcher) - An application that parses .txt files that contain “texts”, utilizes Horspool’s String Matching algorithm 
-    to find texts that contain an occurrence of a given “pattern”, and prints a report for each file to the console.
+[**User Manager GUI (Personal)**](https://github.com/frankrdesilets/user-manager-gui) - A GUI simulating user management in an internal system. Built as a personal project to enhance UI/UX skills.
 
-[**GPA Forecaster**](https://github.com/frankrdesilets/GPA-Forecaster) - An application that parses input .txt files representing a school “career” (semesters taken or planned 
-    and their classes) and calculates and prints a GPA report for each file to the console.
+[**String Matcher (Personal)**](https://github.com/frankrdesilets/string-matcher) - An app that parses .txt files containing “texts,” uses Horspool’s String Matching algorithm to find texts containing an occurrence of a given “pattern,” and prints a report listing texts containing the pattern. Developed as a personal project to practice algorithms learned in Algorithms course at Southwestern University.
 
 ## 📬 Get In Touch 
 
