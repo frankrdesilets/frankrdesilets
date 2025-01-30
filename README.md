@@ -8,7 +8,7 @@ Hello! My name is Frank Desilets. I'm an undergraduate student at Southwestern U
 
 ## 💻 Recent Projects 
 
-**Web Dashboard (FreeLikeYou LLC)** Developing web-based member and admin dashboard with Laravel to optimize user experience and streamline administrative workflows. (Link coming soon) 
+**Web Dashboard (FreeLikeYou LLC Internship)** Developing web-based member and admin dashboard with Laravel to optimize user experience and streamline administrative workflows. (Link coming soon) 
 
 [**GPA Forecaster (Personal)**](https://github.com/frankrdesilets/gpa-forecaster) - An app that parses .txt files representing an academic “career” and predicts a final cumulative GPA, allowing for intentional academic planning and class scheduling.
 
