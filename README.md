@@ -2,13 +2,13 @@
 
 ## 👋 About
 
-Hello! My name is Frank Desilets. I'm an undergraduate student at Southwestern University in Georgetown, Texas pursuing a Bachelor of Arts in Computer Science degree (graduating in May 2026) and a career as a software engineer. Please see below for my GitHub stats, recent projects I've worked on, and contact information.
+Hello! My name is Frank Desilets. I'm an undergraduate student at Southwestern University in Georgetown, Texas pursuing a Bachelor of Arts in Computer Science degree (graduating in May 2026). I'm exploring career paths in software. Please see below for my GitHub stats, recent projects I've worked on, and contact information.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frankrdesilets&hide_progress=true&theme=THEME_NAME)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frankrdesilets&hide_progress=false&theme=THEME_NAME)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 💻 Recent Projects 
 
-**Web Dashboard (FreeLikeYou LLC Internship)** Developing a web-based member and admin dashboard with Laravel to optimize user experience and streamline administrative workflows. (Link coming soon) 
+**Web Dashboard (FreeLikeYou LLC Internship)** Spearheading full-stack development of web portal using Laravel PHP framework for client, moving from email-based scheduling system to centralized platform, thereby streamlining workflows and improving user experience for 1000+ organizational members
 
 [**GPA Forecaster (Personal)**](https://github.com/frankrdesilets/gpa-forecaster) - An app that parses .txt files representing an academic “career” and predicts a final cumulative GPA, allowing for intentional academic planning and class scheduling.
 
