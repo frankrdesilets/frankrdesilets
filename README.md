@@ -8,13 +8,13 @@ Hello! My name is Frank Desilets. I'm an undergraduate student at Southwestern U
 
 ## 💻 Recent Projects 
 
-**Web Dashboard (FreeLikeYou LLC Internship)** - Spearheading full-stack development of web portal using Laravel PHP framework for client, moving from email-based scheduling system to centralized platform, thereby streamlining workflows and improving user experience for 1000+ organizational members
+**Web Portal (Current - FreeLikeYou LLC Internship)** - Spearheading full-stack development of web portal using Laravel PHP framework for client, moving from email-based scheduling system to centralized platform, thereby streamlining workflows and improving user experience for 1000+ organizational members
 
-[**GPA Forecaster (Personal)**](https://github.com/frankrdesilets/gpa-forecaster) - An app that parses .txt files representing an academic “career” and predicts a final cumulative GPA, allowing for intentional academic planning and class scheduling.
+[**GPA Forecaster (Personal)**](https://github.com/frankrdesilets/gpa-forecaster) - Java app that parses .txt files representing an academic “career” and predicts a final cumulative GPA, allowing for intentional academic planning and class scheduling
 
-[**User Manager GUI (Personal)**](https://github.com/frankrdesilets/user-manager-gui) - A GUI simulating user management in an internal system. Built as a personal project to enhance UI/UX skills.
+[**User Manager GUI (Personal)**](https://github.com/frankrdesilets/user-manager-gui) - Java GUI simulating user management in an internal system. Built as a personal project to enhance UI/UX skills
 
-[**String Matcher (Personal)**](https://github.com/frankrdesilets/string-matcher) - An app that parses .txt files containing “texts,” uses Horspool’s String Matching algorithm to find texts containing an occurrence of a given “pattern,” and prints a report listing texts containing the pattern. Developed as a personal project to practice algorithms learned in Algorithms course at Southwestern University.
+[**String Matcher (Personal)**](https://github.com/frankrdesilets/string-matcher) - C++ app that parses .txt files containing “texts,” uses Horspool’s String Matching algorithm to find texts containing an occurrence of a given “pattern,” and prints a report listing texts containing the pattern. Developed as a personal project to practice algorithms learned in Algorithms course at Southwestern University
 
 ## 📬 Get In Touch 
 
