@@ -2,7 +2,7 @@
 
 ## 👋 About
 
-Hello! My name is Frank Desilets. I'm an undergraduate student at Southwestern University in Georgetown, Texas pursuing a Bachelor of Arts in Computer Science degree (graduating in May 2026). I'm exploring career paths in software. Please see below for my GitHub stats, recent projects I've worked on, and contact information.
+My name is Frank Desilets. I'm an undergraduate student at Southwestern University in Georgetown, Texas pursuing a Bachelor of Arts in Computer Science degree (graduating in May 2026). I'm exploring career paths in software. Please see below for my GitHub stats, recent projects I've worked on, and contact information.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frankrdesilets&hide_progress=true&theme=THEME_NAME)](https://github.com/anuraghazra/github-readme-stats)
 
