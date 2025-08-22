@@ -8,13 +8,13 @@ Senior Computer Science student at Southwestern University (B.A., graduating May
 
 [**Web Portal**](https://github.com/frankrdesilets/wildlife-connects) - Designed and developed an internal/external full-stack web portal (PHP, Laravel, MySQL, Bootstrap, Laravel Cloud, Google Cloud Platform) for Texas Wildlife Association, taking full ownership from architecture to deployment. Streamlined workflows for 300+ users and improved operational efficiency by 35%.
 
-[**GPA Forecaster**](https://github.com/frankrdesilets/gpa-forecaster) - Developed and actively use a degree-planning CLI application in Java that calculates and matches GPAs from course/grade combinations against a target, reducing manual effort by parsing input files and outputting console reports.
+[**GPA Forecaster**](https://github.com/frankrdesilets/gpa-forecaster) - Developed and actively use a degree-planning CLI application (Java, JUnit) that calculates and matches GPAs from course/grade combinations against a target, reducing manual effort by parsing input files and outputting console reports.
 
-**Thread Synchronization** - Implemented various synchronization mechanisms in C on unsynchronized, multithreaded producers/consumers and readers/writers templates including semaphores, mutex locks, and condition variables.
+**Thread Synchronization** - Implemented various synchronization mechanisms (C, Linux) on unsynchronized, multithreaded producers/consumers and readers/writers templates including semaphores, mutex locks, and condition variables.
 
-[**User Management GUI**](https://github.com/frankrdesilets/user-management-gui) - Designed and developed a GUI in Java that simulates user management in an internal system to model admin workflows (create/edit/search, roles).
+[**User Management GUI**](https://github.com/frankrdesilets/user-management-gui) - Designed and developed a GUI (Java, JavaFX, Maven, JUnit) that simulates user management in an internal system to model admin workflows (create/edit/search, roles).
 
-[**String Matcher**](https://github.com/frankrdesilets/string-matcher) - Developed an app in C++ that efficiently matches a given pattern to a list of texts by parsing input .txt files containing texts and printing a report of texts containing the pattern.
+[**String Matcher**](https://github.com/frankrdesilets/string-matcher) - Developed an app (C++) that efficiently matches a given pattern to a list of texts by parsing input .txt files containing texts and printing a report to the console.
 
 ## 📬 Contact
 
