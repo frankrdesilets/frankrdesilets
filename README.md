@@ -12,7 +12,7 @@ Senior Computer Science student at Southwestern University (B.A., graduating May
 
 **Thread Synchronization** **(Developer)** - Implemented various synchronization mechanisms (C, Linux) on unsynchronized, multithreaded producers/consumers and readers/writers templates including semaphores, mutex locks, and condition variables.
 
-[**User Management GUI**](https://github.com/frankrdesilets/user-management-gui) **(Solo Developer)** - Designed and developed a GUI (Java, JavaFX, Maven, JUnit) that simulates user management in an internal system to model admin workflows (create/edit/search, roles).
+[**User Management GUI**](https://github.com/frankrdesilets/user-management-gui) **(Solo Developer)** - Designed and developed an end-to-end GUI (Java, JavaFX, Maven, JUnit) that simulates user management in an internal system to model admin workflows (create/edit/search, roles).
 
 [**String Matcher**](https://github.com/frankrdesilets/string-matcher) **(Solo Developer)** - Developed an app (C++) that efficiently matches a given pattern to a list of texts by parsing input .txt files containing texts and printing a report to the console.
 
