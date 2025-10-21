@@ -1,8 +1,6 @@
 ## 👋 About
 
-Senior Computer Science student at Southwestern University (B.A., graduating May 2026) with internship and project experience in backend and full-stack engineering, systems programming, and desktop and CLI development. Skilled in Java, C++, C, Python, and PHP, with hands-on experience designing, building, and deploying scalable applications.
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frankrdesilets&hide_progress=true&theme=THEME_NAME)](https://github.com/anuraghazra/github-readme-stats)
+Senior Computer Science student at Southwestern University (B.A., graduating May 2026) with internship and project experience in **backend and full-stack engineering, systems programming, and desktop and CLI development**. Skilled in **Java, C++, C, Python, and PHP**, with hands-on experience designing, building, and deploying scalable applications.
 
 ## 💻 Recent Projects & Work 
 
