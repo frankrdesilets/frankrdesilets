@@ -1,20 +1,59 @@
-## 👋 About
+## About
 
-Senior Computer Science student at Southwestern University (B.A., graduating May 2026) with internship and project experience in **backend and full-stack engineering, systems programming, and desktop and CLI development**. Skilled in **Java, C++, C, Python, and PHP**, with hands-on experience designing, building, and deploying scalable applications.
+I’m a backend-focused Software Engineer (2026 graduate) interested in building reliable backend and systems-oriented software, with an emphasis on correctness, ownership, and thoughtful tradeoffs.
 
-## 💻 Recent Projects & Work 
+## What this GitHub represents
 
-[**Web Portal**](https://github.com/frankrdesilets/wildlife-connects) **(Contract)** - Designed and developed an internal/external full-stack web portal (PHP, Laravel, MySQL, Bootstrap, Laravel Cloud, Google Cloud Platform) for Texas Wildlife Association, taking full ownership from architecture to deployment. Streamlined workflows for 300+ users and improved operational efficiency by 35%.
+This GitHub contains a curated set of public projects demonstrating backend logic and Java-based application development, with a focus on correctness, testing, and systems-oriented thinking.
 
-[**GPA Forecaster**](https://github.com/frankrdesilets/gpa-forecaster) **(Solo Developer)** - Developed and actively use a degree-planning CLI application (Java, JUnit) that calculates and matches GPAs from course/grade combinations against a target, reducing manual effort by parsing input files and outputting console reports.
+Where production code cannot be shared due to confidentiality, work is documented at a high level.
 
-**Thread Synchronization** **(Developer)** - Implemented various synchronization mechanisms (C, Linux) on unsynchronized, multithreaded producers/consumers and readers/writers templates including semaphores, mutex locks, and condition variables.
+## Highlighted Work
 
-[**User Management GUI**](https://github.com/frankrdesilets/user-management-gui) **(Solo Developer)** - Designed and developed an end-to-end GUI (Java, JavaFX, Maven, JUnit) that simulates user management in an internal system to model admin workflows (create/edit/search, roles).
+### Wildlife Connects - Production Case Study
+High-level technical overview of a production web portal I built for Texas Wildlife Association.  
+Source code is private due to client confidentiality and intellectual property ownership.
 
-[**String Matcher**](https://github.com/frankrdesilets/string-matcher) **(Solo Developer)** - Developed an app (C++) that efficiently matches a given pattern to a list of texts by parsing input .txt files containing texts and printing a report to the console.
+- Backend and full-stack system (PHP, Laravel, MySQL)
+- Owned architecture through deployment
+- Replaced a manual application workflow for 300+ users, improving operational efficiency by 35%
 
-## 📬 Contact
+[View documentation](https://github.com/frankrdesilets/wildlife-connects)
+
+### GPA Forecaster
+Java-based CLI application I built to compute GPA outcomes against target thresholds.
+
+- Backend logic and deterministic computation
+- File parsing and structured reporting
+- 22 JUnit tests covering parsing, validation, and output correctness
+
+[View repository](https://github.com/frankrdesilets/gpa-forecaster)
+
+### User Management GUI
+Java application modeling enterprise-style user management workflows.
+
+- Role-based permissions and data persistence
+- JavaFX, Maven, and JUnit
+- End-to-end application design with testing support
+
+[View repository](https://github.com/frankrdesilets/user-management-gui)
+
+## Technical Focus Areas
+
+**Backend systems**
+- Application logic, data persistence, and workflow-driven backend behavior
+
+**Systems-oriented programming**
+- Reasoning about correctness, shared state, and low-level behavior
+
+**Testing & correctness**
+- Unit testing, defensive design, and deterministic system behavior
+
+## Closing
+
+I’m currently seeking New Grad Software Engineer roles focused on backend, infrastructure-adjacent, or systems-oriented teams.
+
+## Contact
 
 Email: frankdesilets1@gmail.com </br>
-LinkedIn: [frankdesilets](https://www.linkedin.com/in/frankdesilets/)
+LinkedIn: https://www.linkedin.com/in/frankdesilets
