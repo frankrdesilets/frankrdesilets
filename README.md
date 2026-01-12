@@ -32,7 +32,7 @@ Java-based CLI application I built to compute GPA outcomes against target thresh
 ### User Management GUI
 Java application modeling enterprise-style user management workflows.
 
-- Role-based permissions and data persistence
+- Role modeling and data persistence
 - JavaFX, Maven, and JUnit
 - End-to-end application design with testing support
 
